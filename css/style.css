@@ -139,7 +139,7 @@
 /* ========================================
    3D CARD TILT EFFECT
    ======================================== */
-
+/* 
 .tilt-card {
   transform-style: preserve-3d;
   transform: perspective(1000px);
@@ -152,7 +152,7 @@
 
 .tilt-card-content {
   transform: translateZ(20px);
-}
+} */
 
 /* ========================================
    BENTO GRID LAYOUT

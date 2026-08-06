@@ -279,4 +279,4 @@ function initCursorTrail() {
 }
 
 // Uncomment to enable cursor trail
-// initCursorTrail();
+initCursorTrail();
